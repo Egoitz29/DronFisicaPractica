@@ -14,7 +14,7 @@ public class MissionManager : MonoBehaviour
 
     void Start()
     {
-        hud.ShowMessage("Presiona TAB para alternar modo de vuelo\nClic izquierdo para disparar", 4f);
+        hud.ShowMessage("Presiona TAB para alternar modo de vuelo", 4f);
     }
 
 

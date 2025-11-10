@@ -5675,7 +5675,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 11
   m_Type: 2
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 10
   m_Range: 1.39
   m_SpotAngle: 30
@@ -7234,8 +7234,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e3f7a6fbac009e24d8b59d8422bc5b5f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  controlsInfo: "CONTROLES:\nTAB \u2192 Alternar modo de vuelo\nClic Izquierdo \u2192
-    Disparar\nWASD \u2192 Mover\nESPACIO / CTRL \u2192 Subir / Bajar"
+  controlsInfo: "CONTROLES:\nTAB \u2192 Alternar modo de vuelo\nWASD \u2192 Mover\nESPACIO
+    / CTRL \u2192 Subir / Bajar"
   controlsText: {fileID: 0}
 --- !u!1 &1324607323
 GameObject:
